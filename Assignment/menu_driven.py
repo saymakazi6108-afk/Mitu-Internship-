@@ -2,7 +2,7 @@ num = int(input("Enter your number:"))
 print("Check your entered number is:\n1.Even\n2.Odd");
 choice = int(input("Enter your choice(in number):"))
 
-if choice == 1:
+if choice == 1:  
     if num%2 == 0 :
         print("Number is even.")
 elif choice == 2:
