@@ -10,9 +10,3 @@ elif choice == 2:
         print("Number is Odd")
 elif choice != 1 and choice != 2:
     print("Invalid input")
-
-
-    
-    
-
-    
