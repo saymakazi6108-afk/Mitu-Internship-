@@ -78,6 +78,7 @@ def refresh_waiting():
 
     for doctor, queue in doc.items():
         for p in queue:
+            
             index = waiting_list.size()
 
             waiting_list.insert(
